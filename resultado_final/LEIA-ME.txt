@@ -1,0 +1,4 @@
+Esta pasta recebe automaticamente a imagem gerada pelo notebook.
+
+Arquivo padrão após executar projeto_final.ipynb:
+  resultado_scan.jpg

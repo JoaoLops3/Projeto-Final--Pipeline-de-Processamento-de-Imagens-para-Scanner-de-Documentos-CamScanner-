@@ -1,0 +1,6 @@
+Coloque aqui suas fotos de documento para testar o pipeline.
+
+Exemplo: image.png ou documento.jpg
+
+No notebook, deixe IMAGE_NAME = None para usar a primeira imagem desta pasta,
+ou defina: IMAGE_NAME = 'image.png'

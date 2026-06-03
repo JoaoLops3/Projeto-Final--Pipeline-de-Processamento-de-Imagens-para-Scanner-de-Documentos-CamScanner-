@@ -1,4 +1,4 @@
-# Pipeline de Processamento de Imagens para Scanner de Documentos (CamScanner Clone)
+# Pipeline de Processamento de Imagens para Scanner de Documentos
 
 **Disciplina:** CP701TIN3 — Processamento de Imagens Digitais  
 **Trabalho:** Projeto Final (entrega em slides PDF + vídeo demonstrativo)

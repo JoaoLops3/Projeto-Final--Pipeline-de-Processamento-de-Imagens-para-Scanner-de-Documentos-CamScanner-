@@ -1,5 +1,5 @@
 numpy
 opencv-python-headless
-matplotlib
+matplotlib>=3.9.4,<3.10
 ipykernel
 notebook
